@@ -1,6 +1,7 @@
-# 브라우저의 동작 💻 (2)
-[브라우저의 동작(1)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(1).md)
-[브라우저의 동작(2)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(2).md)
+# 브라우저의 동작 💻 (3)
+
+- [브라우저의 동작(1)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(1).md)
+- [브라우저의 동작(2)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(2).md)
 
 
 ## 브라우저의 오류 처리
