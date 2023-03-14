@@ -1,5 +1,6 @@
 # 브라우저의 동작 💻 (2)
-[브라우저의 동작(1)](https://velog.io/@lee7198/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%8F%99%EC%9E%91-1)
+- [브라우저의 동작(1)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(1).md)
+- [브라우저의 동작(3)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(3).md)
 
 ## 파싱과 DOM 트리 구축
 파싱은 렌더링 엔진에서 매우 중요한 과정입니다. 
