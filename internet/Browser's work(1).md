@@ -1,4 +1,6 @@
 # 브라우저의 동작 💻 (1)
+- [브라우저의 동작(2)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(2).md)
+- [브라우저의 동작(3)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(3).md)
 
 브라우저는 모든 웹 사이트에서 중요한 역할을 맡습니다. 어플리케이션 렌더링 부터 작동 방식까지 모든 것이 브라우저와 관련된 기능에 따라 달라집니다. ***크로스 브라우저 호환성 테스트*** 를 통해 원할한 사용자 경험을 제공하려면 브라우저 렌더링 엔진의 역할을 제대로 이해하는것이 중요합니다.
 
