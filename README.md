@@ -10,3 +10,4 @@ Like Lion 11, Computer Science Study
 - [도메인 이름은 무엇인가요?](https://github.com/lee7198/LL11_CS/blob/main/internet/What%20is%20a%20Domain%20Name%3F.md)
 - [브라우저의 동작 💻 (1)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(1).md)
 - [브라우저의 동작 💻 (2)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(2).md)
+- [브라우저의 동작 💻 (3)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(3).md)
