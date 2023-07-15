@@ -12,3 +12,4 @@ Like Lion 11, Computer Science Study
 - [브라우저의 동작 💻 (2)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(2).md)
 - [브라우저의 동작 💻 (3)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(3).md)
 - [브라우저의 동작 💻 (4)](https://github.com/lee7198/LL11_CS/blob/main/internet/Browser's%20work(4).md)
+- [브라우저에 google.com을 입력하면 어떤일이 발생할까요?](https://github.com/lee7198/LL11_CS/blob/main/internet/Type%20the%20google.com%20in%20browser.md)
